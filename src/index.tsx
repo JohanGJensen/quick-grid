@@ -79,11 +79,6 @@ export const Grid = ({ children = undefined, columns = 12, verticalSpace = 0, ho
                 .grid-component {
                     height: auto;
                     flex-shrink: 0;
-                    background: lightgrey;
-                }
-
-                .grid-component:nth-child(even) {
-                    background: grey;
                 }
 
             `}</style>

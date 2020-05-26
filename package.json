@@ -1,6 +1,6 @@
 {
   "name": "@johang/quick-grid",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A set of grid components to use with React to create a responsive layout",
   "author": "JohanGJensen",
   "license": "MIT",
